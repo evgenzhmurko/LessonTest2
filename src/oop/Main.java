@@ -6,5 +6,8 @@ public class Main {
         // write your code here
         System.out.println("HI!");
         System.out.println("HI2!");
+        System.out.println("HI2!");
+        System.out.println("HI2!");
+        System.out.println("HI2!");
     }
 }
